@@ -1,6 +1,6 @@
 # Mantenedor de Personas - APP
 
-Código fuente de la aplicación que utiliza la API Mantenedor
+Código fuente de la aplicación que utiliza la **"API Mantenedor Personas - API"**, la cual se construyó utilizando React JS
 
 ## Instrucciones para levantar el ambiente de desarrollo
 
